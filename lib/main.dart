@@ -54,6 +54,7 @@ class MyApp extends StatelessWidget {
                       labelText: 'EMAIL',
                       prefixIcon: Icon(
                         Icons.email,
+                        color: Colors.green,
                       ),
                     ),
                   ),
